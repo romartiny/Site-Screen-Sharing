@@ -34,8 +34,7 @@ const createMain = (top, left) => {
 
   main.style.width = '80px';
   main.style.height = '80px';
-  main.style.backgroundImage = 'url(/logo.png)'; // local
-  main.style.backgroundImage = 'url(./assets/logo.png)'; // prod
+  main.style.backgroundImage = 'url(./assets/logo.png)';
   main.style.backgroundSize = 'contain';
   main.style.backgroundRepeat = 'no-repeat';
   main.style.backgroundPosition = 'center';
