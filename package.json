@@ -1,0 +1,11 @@
+{
+  "name": "site-screen-sharing",
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vite": "^5.0.11"
+  }
+}
